@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b86b608-0401-48a0-9748-acc54cc052b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Data_types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/List_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/GenericFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/abstraction/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/abstraction/UseAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/classes/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/classes/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/Base1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/MultilevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/SingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/interfaces/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
